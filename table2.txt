@@ -1,0 +1,26 @@
+Table 2 
+Broad-line AGNs in the BPT Valley
+
+
+ID	$f{({\rm{H}}\alpha )}_{{\rm{n}}}$	$f{({\rm{H}}\alpha )}_{{\rm{b}}}$	${\mathrm{FWHM}}_{{\rm{H}}\alpha }$	${\mathrm{FWHM}}_{[{\rm{S}}{\rm{II}}]}$	${\mathrm{EW}}_{\mathrm{rest}}{({\rm{H}}\alpha )}_{{\rm{b}}}$	
+(1)	(2)	(3)	(4)	(5)	(6)	
+Broad Halpha and He II						
+						
+3	991.96	1834.96	7162.24	245.05	88.10	
+8	414.20	309.70	875.81	247.31	27.02	
+12	524.87	830.66	1682.70	324.79	57.25	
+13	748.78	728.55	2033.36	223.68	72.83	
+25	607.56	930.70	1974.28	248.66	159.88	
+34	2072.41	797.10	2083.37	377.39	33.06	
+65	573.27	761.34	4830.02	263.52	44.61	
+66	448.38	768.76	2430.79	221.86	47.03	
+						
+Broad Halpha and noHe II						
+						
+17	719.07	392.29	3396.57	270.94	44.74	
+21	1014.89	1145.11	2440.19	337.97	44.13	
+47	515.66	726.01	3569.90	273.99	246.77	
+58	390.35	801.51	4347.42	307.51	28.83	
+67	276.51	335.10	2372.32	276.41	25.14	
+Notes. Column (1): identification number assigned in this paper. Column (2): flux of the narrow component of Halpha in units of 10^-17 $\mathrm{erg}\ {{\rm{s}}}^{-1}\ {\mathrm{cm}}^{-2}$. Column (3): flux of the broad component of Halpha in units of 10^-17 $\mathrm{erg}\ {{\rm{s}}}^{-1}\ {\mathrm{cm}}^{-2}$. Column (4): FWHM of the broad component of Halpha in units of km s^-1. Column (5): FWHM of the [S II]lambda6717 (i.e., narrow component) in units of km s^-1. Column (6): rest-frame equivalent width of the broad component of Halpha in units of $\mathring{\rm A} $.
+SOURCE8^a Classified as an object with a broad Halpha component through the FWHM of the additional Halpha component is less than 1000 km s^-1 (see the main text).
